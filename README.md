@@ -147,3 +147,6 @@ Request are send to the following endpoint:
   http://127.0.0.1:8000/vendors/<int:vendor_id>/performance
 ```
 vendor_id is the id of required vendor
+
+## Test Suit ##
+Run ``` python manage.py test ```
